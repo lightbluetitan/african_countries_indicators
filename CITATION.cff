@@ -5,7 +5,7 @@ authors:
     given-names: "Renzo"
     orcid: "https://orcid.org/0009-0005-0744-854X"
 title: "African Countries: A Curated Dataset on Africa Indicators for Education and Data Science"
-version: 1.0.0
-doi: "" 
+version: 1.0.1
+doi: "10.5281/zenodo.19647480" 
 date-released: 2026-04-18
 url: "https://github.com/lightbluetitan/african_countries_indicators"
