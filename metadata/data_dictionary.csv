@@ -1,0 +1,11 @@
+variable_name,data_type,description,example
+id,Integer,Unique numeric identifier for each country (1 to 54).,1
+country_name,String,Full official name of the African country.,Algeria
+iso_alpha3,String,ISO 3166-1 alpha-3 three-letter country code (e.g. DZA - AGO - KEN).,DZA
+capital,String,Name of the country's capital city.,Algiers
+region,String,African sub-region classification (e.g. Northern Africa - Western Africa).,Northern Africa
+latitude,Float,Geographic latitude coordinate of the country's centroid (decimal degrees).,28.033886
+longitude,Float,Geographic longitude coordinate of the country's centroid (decimal degrees).,1.659626
+landlocked,Boolean,Indicates whether the country is landlocked (TRUE) or has coastal access (FALSE).,FALSE
+area_km2,Integer,Total land area of the country in square kilometers.,2381740
+population,Integer,Estimated total population of the country.,46814308

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: "Caceres Rossi"
+    given-names: "Renzo"
+    orcid: "https://orcid.org/0009-0005-0744-854X"
+title: "African Countries: A Curated Dataset on Africa Indicators for Education and Data Science"
+version: 1.0.0
+doi: "" 
+date-released: 2026-04-18
+url: "https://github.com/lightbluetitan/african_countries_indicators"
